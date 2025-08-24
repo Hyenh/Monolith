@@ -1,0 +1,9 @@
+- type: loadout
+  id: RogueClothingNeckPonchoBlack
+  equipment:
+    neck: ClothingNeckPonchoBlackStripe
+
+- type: loadout
+  id: RogueClothingNeckPonchoRed
+  equipment:
+    neck: ClothingNeckPonchoSyndicate

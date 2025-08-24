@@ -13,3 +13,15 @@
   subgroups:
   - PirateJumpsuit
   - PirateMercenaryJumpsuit
+
+- type: loadoutGroup
+  id: RogueNeck
+  name: loadout-group-contractor-neck
+  minLimit: 0
+  loadouts:
+  - RogueClothingNeckPonchoBlack
+  - RogueClothingNeckPonchoRed
+  fallbacks:
+  - RogueNeck
+  subgroups:
+  - ContractorNeck

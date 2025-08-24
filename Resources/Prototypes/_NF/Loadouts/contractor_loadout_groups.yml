@@ -663,6 +663,13 @@
   - ContractorClothingNeckStethoscope
   - ContractorClothingOuterPoncho
   - ContractorClothingOuterPonchoClassic
+  - ContractorClothingNeckPonchoSmallPurple # Monolith
+  - ContractorClothingNeckPonchoSmallRed # Monolith
+  - ContractorClothingNeckPonchoSmallPink # Monolith
+  - ContractorClothingNeckPonchoSmallBlack # Monolith
+  - ContractorClothingNeckPonchoSmallWhite # Monolith
+  - ContractorClothingNeckPonchoBlack # Monolith
+  - ContractorClothingNeckPonchoWhite # Monolith
   - ContractorClothingNeckCloakBlack # Monolith
   - ContractorClothingNeckCloakCOG # Monolith
   - ContractorClothingNeckCloakMiner
@@ -899,7 +906,7 @@
   hidden: true # Mono
   minLimit: 1
   loadouts:
-  - ContractorBoxSurvivalNFOxygenExtended 
+  - ContractorBoxSurvivalNFOxygenExtended
   - ContractorBoxSurvivalNFNitrogenExtended
   fallbacks:
   - ContractorBoxSurvivalNFOxygenExtended
