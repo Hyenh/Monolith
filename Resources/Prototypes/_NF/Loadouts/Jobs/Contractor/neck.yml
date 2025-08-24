@@ -242,7 +242,7 @@
     neck: ClothingNeckPonchoSmallWhite
 
 - type: loadout
-  id: ContractorClothingNeckPonchoSmallArctic # Monolith
+  id: ContractorClothingNeckPonchoArctic # Monolith
   effects:
   - !type:GroupLoadoutEffect
     proto: ContractorT2
