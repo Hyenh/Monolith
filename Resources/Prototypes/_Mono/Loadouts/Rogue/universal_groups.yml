@@ -21,7 +21,5 @@
   loadouts:
   - RogueClothingNeckPonchoBlack
   - RogueClothingNeckPonchoRed
-  fallbacks:
-  - RogueNeck
   subgroups:
   - ContractorNeck
